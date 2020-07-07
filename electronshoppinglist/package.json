@@ -9,7 +9,7 @@
   "author": "Vasanth Solomon",
   "license": "ISC",
   "dependencies": {
-    "electron": "^1.7.6",
+    "electron": "^7.2.4",
     "electron-icon-generator": "^1.0.2"
   },
   "devDependencies": {
