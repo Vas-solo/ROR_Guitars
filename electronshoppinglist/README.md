@@ -1,4 +1,4 @@
-# Electron ShoppingList Desktop App
+# Electron GuitarApp Desktop App
 
 This is a cross platform shoppinglist desktop application built on electron
 
