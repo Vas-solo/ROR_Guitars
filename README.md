@@ -1,6 +1,6 @@
 # Electron ShoppingList Desktop App
 
-This is a cross platform shoppinglist desktop application built on electron
+This is a guitar app desktop application built on electron
 
 ### Version
 1.0.0
