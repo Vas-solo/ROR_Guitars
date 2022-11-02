@@ -13,6 +13,6 @@
     "electron-icon-generator": "^1.0.2"
   },
   "devDependencies": {
-    "electron-packager": "^9.1.0"
+    "electron-packager": "^17.1.1"
   }
 }
